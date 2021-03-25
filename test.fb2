@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+<description>
+  <title-info>
+    <genre>sf_fantasy</genre>
+    <author>
+      <first-name>Name1</first-name>
+      <last-name>Surname1</last-name>
+    </author>
+    <author>
+      <first-name>Name2</first-name>
+      <last-name>Surname2</last-name>
+    </author>
+    <book-title>Trash</book-title>
+    <annotation>
+      <p>Just trash, litter on the breeze.</p>
+    </annotation>
+    <date>2021</date>
+    <lang>en</lang>
+    <sequence name="Trash1" number="2"/>
+  </title-info>
+  <document-info>
+    <author>
+      <first-name>Foo</first-name>
+      <last-name>Baz</last-name>
+    </author>
+    <program-used>FB Editor v2.0</program-used>
+    <date value="2009-12-16">16 December 2009</date>
+    <version>1.1</version>
+    <history>
+      <p>v.1.0 — First version.</p>
+      <p>v.1.1 — Second version.</p>
+    </history>
+  </document-info>
+  <publish-info>
+    <publisher>Neverland</publisher>
+    <year>2021</year>
+  </publish-info>
+</description>
+<body>
+  <title>
+   <p>Name1 Surname1, Name2 Surname2</p>
+   <p>Trash</p>
+  </title>
+  <section>
+   <title>
+    <p>First section</p>
+   </title>
+   <subtitle><emphasis>Somewhere around nothing</emphasis></subtitle>
+   <p>Text</p>
+  </section>
+ </body>
+</FictionBook>
